@@ -1,5 +1,5 @@
-# AZChyper
-It's a chyper.
+# AZCypher
+It's a Cypher.
 
 It maps each lowercase letter to the corrosponding letter on the opposite side of the alphabet.
 For example: solution("z") will return "a", solution("b") will return "y", and so on.
