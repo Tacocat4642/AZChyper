@@ -12,6 +12,7 @@ There wasn't really any reason for me to push this. I just wanted the serotonin 
 1. Download AZCypher.py
 2. Add the code ```print(solution("sample_phrase")``` at the bottom
 3. Replace sample_phrase with whatever you want to encode/decode
+4. Run program
 
 --> Code will print result
 
