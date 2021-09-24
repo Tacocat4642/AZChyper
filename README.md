@@ -4,7 +4,7 @@ It's a Cypher.
 It maps each lowercase letter to the corrosponding letter on the opposite side of the alphabet.
 For example: ```solution("z")``` will return ```a```, ```solution("b")``` will return ```y```, and so on.
 
-It will ignore everything that isn't a lowercase english letter (punctuation, uppercase, Japanese, etc.)
+It won't encode anything that isn't a lowercase english letter (punctuation, uppercase, Japanese, etc.)
 
 There wasn't really any reason for me to push this. I just wanted the serotonin from uploading a project to github.
 
