@@ -10,7 +10,7 @@ def solution(phrase):
             number = ord(letter)
         phraseInNumbers.append(number)
 
-    # Invert lowercase numbers
+    # Invert lowercase numbers (ex: 1=26, 2=25)
     # (Again, ignore anything other than lowercase numbers)
     for number in range(len(phraseInNumbers)):
         if phraseInNumbers[number] <= 26 and phraseInNumbers[number] > 0:
