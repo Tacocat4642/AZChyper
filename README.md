@@ -6,7 +6,7 @@ For example: solution("z") will return "a", solution("b") will return "y", and s
 
 It will ignore everything that isn't a lowercase english letter (punctuation, uppercase, Japanese, etc.)
 
-There wasn't really any reason for me to push this. I just wanted the seratonin from uploading a project to github.
+There wasn't really any reason for me to push this. I just wanted the serotonin from uploading a project to github.
 
 # Usage
 1. Download AZCypher.py
